@@ -10,8 +10,8 @@
 **available languages:**
 
 
- ###nodejs###
- ###Python###
+ *nodejs*
+ *Python*
 
 
  contact for more: https://t.me/fasweehh
