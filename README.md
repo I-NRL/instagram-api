@@ -8,8 +8,10 @@
 *fast and efficient*
 
 **available languages:**
- -Nodejs
- -Python
+
+
+ ###nodejs###
+ ###Python###
 
 
  contact for more: https://t.me/fasweehh
