@@ -2,10 +2,10 @@
 
 **anyone want ig account creater dm me**
 
-*proxy connection*
-*unlimited account Creation*
-*Email registration*
-*fast and efficient*
+*proxy connection*<br>
+*unlimited account Creation*<br>
+*Email registration*<br>
+*fast and efficient*<br>
 
 **available languages:**
 
